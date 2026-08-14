@@ -1,0 +1,10 @@
+{
+  "name": "SpeakEasy English",
+  "description": "AI-powered English learning app for Hindi speakers featuring real-time translation, spoken conversation partner, pronunciation coach, Open Library for free classics & stories, daily task notepad, lessons, and flashcards.",
+  "requestFramePermissions": [
+    "android.permission.RECORD_AUDIO"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
